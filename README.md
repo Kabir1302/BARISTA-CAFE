@@ -1,2 +1,2 @@
 # CafeBarista
-Bootstrap Based project created for College project submission
+Project made using bootstrap for college submission.
